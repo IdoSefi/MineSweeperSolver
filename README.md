@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a Python implementation of the classic Minesweeper game using the Pygame library. The game includes functionalities for creating the game grid, placing bombs, revealing tiles, and flagging suspected bombs. Additionally, there is an AI component that attempts to assist in solving the Minesweeper grid.
+This is a Python implementation of the classic Minesweeper game using the Pygame library, in order to practice OOP.
+The game includes functionalities for creating the game grid, placing bombs, revealing tiles, and flagging suspected bombs. Additionally, there is an Solver component that attempts to solve the grid.
 
 ## Requirements
 
@@ -83,10 +84,12 @@ To run the game, simply execute the script. The game window will open, and you c
 python minesweeper.py
 ```
 
+after the board is open. click on an empty tile and the Solver will do the rest. it will click on safe tiles and mark in blue the flagged mine tiles
+
 ## Future Improvements
 
-- Add functionality for flagging tiles.
-- Enhance the AI for better performance and accuracy.
-- Improve the user interface and add more features like difficulty levels and a timer.
+- Make the board and mines prettier
+- seperating the Solver and the Board files
+- making the Solver more capeable
 
 Enjoy playing Minesweeper!
