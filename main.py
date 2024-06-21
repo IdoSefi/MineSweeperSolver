@@ -11,7 +11,7 @@ Tk().wm_withdraw() #to hide the main window
 messagebox.showinfo('Mine Sweeper Solver','welcome to Mine Sweeper Solver,\n'
                                           'to play press the left mouse on an empty block, if you press on a bomb'
                                           ' you will loose, and will have to retry')
-messagebox.showinfo('Mine Sweeper Solver','press the green tile')
+messagebox.showinfo('Mine Sweeper Solver','Please press the green tile')
 run_game = True
 while run_game:
     # events
