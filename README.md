@@ -5,6 +5,21 @@
 This is a Python implementation of the classic Minesweeper game using the Pygame library, in order to practice OOP.
 The game includes functionalities for creating the game grid, placing bombs, revealing tiles, and flagging suspected bombs. Additionally, there is an Solver component that attempts to solve the grid.
 
+##demo:
+
+
+https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/d6b8937d-8587-4127-b51b-52bd36d0d4fe
+
+
+https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/7a90543a-7f8a-49d2-b711-04643afc642f
+
+
+
+##loosing demo:
+
+
+https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/d84c24aa-826c-4096-890e-16b4f6e1d0e9
+
 ## Requirements
 
 - Python 3.x
