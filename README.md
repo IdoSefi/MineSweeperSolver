@@ -15,8 +15,8 @@ https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/d6b8937d-8587-4127
 ## loosing demo:
 
 
-https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/38a7ff61-340b-4408-b1bb-560b323af6bf
 
+https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/de88bb16-490c-43da-9f88-960f77762a3b
 
 
 
