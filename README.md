@@ -14,7 +14,9 @@ https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/d6b8937d-8587-4127
 
 ## loosing demo:
 
-![loosing-ezgif com-video-to-gif-converter](https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/db8e773b-f253-4f38-92e2-a7bc7f6f8018)
+
+https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/38a7ff61-340b-4408-b1bb-560b323af6bf
+
 
 
 
