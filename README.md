@@ -8,12 +8,9 @@ The game includes functionalities for creating the game grid, placing bombs, rev
 ##demo:
 
 
-https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/d6b8937d-8587-4127-b51b-52bd36d0d4fe
-
-
 https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/7a90543a-7f8a-49d2-b711-04643afc642f
 
-
+https://github.com/IdoSefi/MineSweeperSolver/assets/172110264/d6b8937d-8587-4127-b51b-52bd36d0d4fe
 
 ##loosing demo:
 
